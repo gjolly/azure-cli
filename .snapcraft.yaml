@@ -15,6 +15,7 @@ apps:
     plugs:
       - network
       - home
+      - ssh-keys
 
 parts:
   azure-cli:
